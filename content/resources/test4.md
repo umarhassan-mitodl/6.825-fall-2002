@@ -4,8 +4,6 @@ description: Test4
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/e8716647e33669ab4b9da0e27dcd4aa5_test4.cnf
 file_size: 1879
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

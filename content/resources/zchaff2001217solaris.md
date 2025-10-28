@@ -4,8 +4,6 @@ description: zChaff binary for Solaris
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/0f4f40c0262b72e94df669611bca7011_zchaff2001217solaris.gz
 file_size: 163345
 file_type: application/x-gzip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

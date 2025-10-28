@@ -4,8 +4,6 @@ description: Project 1c
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/871a5e709225b64401c993be774ecb31_proj1c.pdf
 file_size: 103057
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

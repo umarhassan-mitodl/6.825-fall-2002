@@ -4,8 +4,6 @@ description: '[dataB]'
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/598b0c6a944ed12c99e896a4aed65df9_dataB.txt
 file_size: 85299
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

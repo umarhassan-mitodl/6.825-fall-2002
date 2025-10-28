@@ -4,8 +4,6 @@ description: This resource includes information on Problem Solving and Search.
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/66ac2a9beea4e159bbf040d1d5b9a113_Lecture2Final.pdf
 file_size: 501886
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

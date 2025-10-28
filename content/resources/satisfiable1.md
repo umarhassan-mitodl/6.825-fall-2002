@@ -4,8 +4,6 @@ description: A simple satisfiable sentence
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/04fd66aee8d3b8b4f35922915998cfeb_satisfiable1.cnf
 file_size: 11
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

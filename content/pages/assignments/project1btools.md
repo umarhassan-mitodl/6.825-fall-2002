@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -21,8 +19,8 @@ video_metadata:
 zChaff
 
 zChaff is a very efficient implementation of the complete SAT solver, Chaff. zChaff takes sentences in CNF form and produces an assignment, if one exists.  
-More information about zChaff can be found at the [zChaff homepage](http://www.princeton.edu/~chaff/zchaff.html).  
-Information on the standard DIMACS CNF format can be found [here](http://logic.pdmi.ras.ru/~basolver/dimacs.html). Here is ;{{% resource_link 35c5e3dd-763e-7db5-f4bc-a0372a48c50d "one example" %}} ;of a CNF sentence in the DIMACS format, and here is ;{{% resource_link 632bd360-1f52-0e2e-fe0d-9c3f59c18b25 "another example" %}}.  
+More information about zChaff can be found at the {{% resource_link "e5acbd49-273e-4071-84dd-59e4235d07b0" "zChaff homepage" %}}.  
+Information on the standard DIMACS CNF format can be found {{% resource_link "10b59332-0048-4ed1-895f-3819c462bfc8" "here" %}}. Here is ;{{% resource_link 35c5e3dd-763e-7db5-f4bc-a0372a48c50d "one example" %}} ;of a CNF sentence in the DIMACS format, and here is ;{{% resource_link 632bd360-1f52-0e2e-fe0d-9c3f59c18b25 "another example" %}}.  
   
 To get zChaff, download one of the following files:  
 

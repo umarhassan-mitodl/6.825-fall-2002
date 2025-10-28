@@ -4,8 +4,6 @@ description: Review Problems
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/1a87ebe4d45148e2935d08286541119d_samp_sol.pdf
 file_size: 163522
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

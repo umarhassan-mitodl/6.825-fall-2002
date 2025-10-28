@@ -4,8 +4,6 @@ description: FOL.jar
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/5c0ef00fc4864af9afef7578011eeade_FOL.jar
 file_size: 90007
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -13,7 +11,7 @@ video_metadata:
   youtube_id: null
 ---
 
-\[AIMA\] = [_Artificial Intelligence: A Modern Approach (First Edition)_](http://www.cs.berkeley.edu/~russell/aima.html)
+\[AIMA\] = {{% resource_link "440b8f8a-1ce2-4473-bfa1-d69bafaa1a42" "_Artificial Intelligence: A Modern Approach (First Edition)_" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -111,7 +109,7 @@ Exercises, Lec 3-5
 Propositional Satisfiability
 {{< tdclose >}}
 {{< tdopen >}}
-[Finding Hard Instances of the Satisfiability Problem: A Survey](http://www.cs.sfu.ca/~mitchell/)
+{{% resource_link "5cdbad66-b21a-45ce-9af7-0b4dd6b2c91d" "Finding Hard Instances of the Satisfiability Problem: A Survey" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec 4 PDF - 1.2 MB)
@@ -241,7 +239,7 @@ Planning: Situation Calculus and POP
 {{< tdclose >}}
 {{< tdopen >}}
 AIMA 7.4 - 7.10, 11  
-[Programs with Common Sense](http://www-formal.stanford.edu/jmc/mcc59.html)
+{{% resource_link "05e4bbd5-2cc4-443a-bae5-974247315b66" "Programs with Common Sense" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lec 10
@@ -518,7 +516,7 @@ Lec 20
 Probabilistic Planning
 {{< tdclose >}}
 {{< tdopen >}}
-Optional: [Probabilistic Planning in the Graphplan Framework](http://www-2.cs.cmu.edu/~jcl/papers/papers.html)
+Optional: {{% resource_link "948b79c9-4443-4911-82ea-ee82316fbdf0" "Probabilistic Planning in the Graphplan Framework" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

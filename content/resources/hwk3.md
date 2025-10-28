@@ -4,8 +4,6 @@ description: Homework 3
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/9a6a44b1bbb310ca2af1ddc24f0169c1_hwk3.pdf
 file_size: 88303
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

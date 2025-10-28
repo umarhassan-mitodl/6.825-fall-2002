@@ -4,8 +4,6 @@ description: PL.jar
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/647260b182bcd7e32675f6bedc73b241_PL.jar
 file_size: 14138
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

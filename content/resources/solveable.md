@@ -4,8 +4,6 @@ description: Solution to the solveable CNF
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/de8f55f7e551f0c07f866ec20a815410_solveable.solution
 file_size: 222
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

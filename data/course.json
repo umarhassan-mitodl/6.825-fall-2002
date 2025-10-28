@@ -33,8 +33,7 @@
     "website": "6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002"
   },
   "course_title": "Techniques in Artificial Intelligence (SMA 5504)",
-  "hide_download": true,
-  "course_description": "6.825 is a graduate-level introduction to artificial intelligence. Topics covered include: representation and inference in first-order logic, modern deterministic and decision-theoretic planning techniques, basic supervised learning methods, and Bayesian network inference and learning.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5504 (Techniques in Artificial Intelligence).\n",
+  "course_description": "6.825 is a graduate-level introduction to artificial intelligence. Topics covered include: representation and inference in first-order logic, modern deterministic and decision-theoretic planning techniques, basic supervised learning methods, and Bayesian network inference and learning.\n\nThis course was also taught as part of the {{% resource_link \"19f7c217-0d91-4aec-8fa5-4c9e63761658\" \"Singapore-MIT Alliance\" %}} (SMA) programme as course number SMA 5504 (Techniques in Artificial Intelligence).\n",
   "department_numbers": [
     "6"
   ],
@@ -44,7 +43,6 @@
     "content": "3fb391e9-0a29-b845-4a8a-6d8dba7e289b",
     "website": "6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Programming Assignments"

@@ -4,8 +4,6 @@ description: Final Examination
 file: /courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/52c9ab01d2855961abc29604fde87226_s2001final.pdf
 file_size: 109623
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
